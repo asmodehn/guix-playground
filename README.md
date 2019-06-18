@@ -1,0 +1,2 @@
+# guix-playground
+GuixSD stuff
